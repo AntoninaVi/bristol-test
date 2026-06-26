@@ -20,11 +20,6 @@ I tested the hotel website [bristolkrasnodar.ru](https://bristolkrasnodar.ru/) a
 
 ## 💻 Test Environment
 
-**Devices**
-- MacBook
-- iPhone
-- iPad
+**Devices:** MacBook, iPhone, iPad
 
-**Browsers**
-- Google Chrome
-- Safari
+**Browsers:** Google Chrome, Safari
