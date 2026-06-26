@@ -19,6 +19,13 @@ Manual QA testing of [bristolkrasnodar.ru](https://bristolkrasnodar.ru/):
 
 ### Test Environment
 
-**Devices:** MacBook, iPhone, iPad
+**Devices:** 
+- MacBook, macOS Sequoia 15.7.7
+- iPhone, iOS 26.5.
+- iPad, OS 18.7.2
+- Samsung A32 Android 13
 
-**Browsers:** Google Chrome, Safari
+
+**Browsers:** Google Chrome (148.0.7778.216), Safari (iOS/macOS) 26.5, Firefox (152.0.3), Opera (132.0.5905.102)
+
+
